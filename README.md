@@ -3,7 +3,7 @@
 Welcome to my Github portfolio! 
 
 ## About Me
-Application Support Manager at XYZ Ltd., ensuring seamless operation of insurance applications. Provides production support, resolves issues efficiently, and maintains system availability to guarantee uninterrupted business operations.
+Application Support Manager at ICICI Prudential Life Insurance Private Ltd., ensuring seamless operation of insurance applications. Provides production support, resolves issues efficiently, and maintains system availability to guarantee uninterrupted business operations.
 
 ## Skills
 - Programming: SQL
