@@ -10,4 +10,4 @@ Application Support Manager at XYZ Ltd., ensuring seamless operation of insuranc
 - Soft skills: Time Management & Prioritization, Stakeholder Satisfaction & Issue Resolution, Collaboration & Cross-Functional Coordination, Careful, Accurate, and Compliance-Focused.
 
 ## Contact
-LinkedIn: [linkedin.com/in/kartikvurukonda](https://www.linkedin.com/in/kartik-vurukonda-353960102)
+- LinkedIn: [linkedin.com/in/kartikvurukonda](https://www.linkedin.com/in/kartik-vurukonda-353960102)
