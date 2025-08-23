@@ -11,3 +11,4 @@ Application Support Manager at XYZ Ltd., ensuring seamless operation of insuranc
 
 ## Contact
 - LinkedIn: [linkedin.com/in/kartikvurukonda](https://www.linkedin.com/in/kartik-vurukonda-353960102)
+- Email: kartik96vurukonda@gmail.com
