@@ -26,6 +26,6 @@ Application Support Manager at ICICI Prudential Life Insurance Company Ltd., ens
 - Mobile: 9699006936
 
 ## Professional Experience:
-# IT Application Support Manager| ICICI Prudential Life Insurance Company Ltd.| Mumbai|                
+### IT Application Support Manager| ICICI Prudential Life Insurance Company Ltd.| Mumbai|                
   July 2021 to Present
 
