@@ -23,7 +23,7 @@ Application Support Manager at ICICI Prudential Life Insurance Company Ltd., ens
 ## Professional Experience:
 ### IT Application Support Manager | ICICI Prudential Life Insurance Company Ltd.| Mumbai |                
     July 2021 to Present
-
+<br>
 - Leading a 30-member support team handling 200+ daily tickets, improving SLA compliance by 30%.
 - Implemented knowledge base and automated workflows, reducing incident resolution time by 25%.
 - Managed production support for insurance applications, ensuring timely issue resolution and seamless operations.
@@ -34,13 +34,13 @@ Application Support Manager at ICICI Prudential Life Insurance Company Ltd., ens
 
 ### Electrical and Instrumentation Engineer | Pipetech Engineering Solution Pvt. Ltd.| Mumbai |         
     Aug 2019 – Mar 2020
-
+<br>
 - Assembled and managed pre-existing 3D components for Civil, Mechanical, and Electrical projects using CADMATIC software.
 - Optimized component management processes, improving efficiency and reducing errors in project delivery.
 
 ### Production of Electronic Instruments | Concept Electronics | Mumbai |                                                  
     Aug 2018 – Apr 2019
-
+<br>
 - Followed production processes of electronic instruments, including electronic weighing scale indicators and testing them ensuring precision, reliability, and    compliance with industry standards.
 
 ## Skill Development Courses:
@@ -48,7 +48,7 @@ Application Support Manager at ICICI Prudential Life Insurance Company Ltd., ens
 - Siemens PLC and SCADA Programming at National Skill Training Institute by Government of India.
 
 ## Education:
-- Bachelor of Technology in Electronics Engineering| Veermata Jijabai Technological Institute (VJTI), Matunga, Mumbai, India| 2018.
+- Bachelor of Technology in Electronics Engineering | Veermata Jijabai Technological Institute (VJTI), Matunga, Mumbai, India | 2018.
 
 ## College Project Works:
 - **Title:** Bionic arm
