@@ -3,10 +3,10 @@
 Welcome to my Github portfolio! 
 
 ## About Me
-Application Support Manager at ICICI Prudential Life Insurance Company Ltd., ensuring seamless operation of insurance applications. Provides production support, resolves issues efficiently, and maintains system availability to guarantee uninterrupted business operations.
+Application Support Manager at ICICI Prudential Life Insurance Company Ltd., ensuring seamless operation of insurance applications and providing production support, resolving issues efficiently, and maintaining system availability to guarantee uninterrupted business operations.
 
-## Skills
-- Programming: SQL
+## Technical/Functional Skills (Present):
+- •	Application & Support Management:  SQL
 - Soft skills: Time Management & Prioritization, Stakeholder Satisfaction & Issue Resolution, Collaboration & Cross-Functional Coordination, Careful, Accurate, and Compliance-Focused.
 
 ## Contact
