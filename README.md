@@ -20,14 +20,10 @@ Application Support Manager at ICICI Prudential Life Insurance Company Ltd., ens
 - Problem Solving
 - Attention to Detail
 
-## Contact
-- LinkedIn: [linkedin.com/in/kartikvurukonda](https://www.linkedin.com/in/kartik-vurukonda-353960102)
-- Email: kartik96vurukonda@gmail.com
-- Mobile: 9699006936
-
 ## Professional Experience:
 ### IT Application Support Manager | ICICI Prudential Life Insurance Company Ltd.| Mumbai |                
     July 2021 to Present
+
 - Leading a 30-member support team handling 200+ daily tickets, improving SLA compliance by 30%.
 - Implemented knowledge base and automated workflows, reducing incident resolution time by 25%.
 - Managed production support for insurance applications, ensuring timely issue resolution and seamless operations.
@@ -38,11 +34,13 @@ Application Support Manager at ICICI Prudential Life Insurance Company Ltd., ens
 
 ### Electrical and Instrumentation Engineer | Pipetech Engineering Solution Pvt. Ltd.| Mumbai |         
     Aug 2019 – Mar 2020
+
 - Assembled and managed pre-existing 3D components for Civil, Mechanical, and Electrical projects using CADMATIC software.
 - Optimized component management processes, improving efficiency and reducing errors in project delivery.
 
 ### Production of Electronic Instruments | Concept Electronics | Mumbai |                                                  
     Aug 2018 – Apr 2019
+
 - Followed production processes of electronic instruments, including electronic weighing scale indicators and testing them ensuring precision, reliability, and    compliance with industry standards.
 
 ## Skill Development Courses:
