@@ -22,7 +22,7 @@ Application Support Manager at ICICI Prudential Life Insurance Company Ltd., ens
 
 ## Professional Experience:
 ### IT Application Support Manager | ICICI Prudential Life Insurance Company Ltd.| Mumbai |                
-    <span>July 2021 to Present</span>
+    <div style="display:inline-block;>July 2021 to Present</div>
 <br>
 - Leading a 30-member support team handling 200+ daily tickets, improving SLA compliance by 30%.
 - Implemented knowledge base and automated workflows, reducing incident resolution time by 25%.
