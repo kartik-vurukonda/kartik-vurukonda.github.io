@@ -36,7 +36,8 @@ Aug 2019 – Mar 2020
 - Assembled and managed pre-existing 3D components for Civil, Mechanical, and Electrical projects using CADMATIC software.
 - Optimized component management processes, improving efficiency and reducing errors in project delivery.
 
-### Production of Electronic Instruments | Concept Electronics | Mumbai |                                                      Aug 2018 – Apr 2019
+### Production of Electronic Instruments | Concept Electronics | Mumbai | 
+Aug 2018 – Apr 2019
 - Followed production processes of electronic instruments, including electronic weighing scale indicators and testing them          ensuring precision,reliability, and compliance with industry standards.
 
 ## Skill Development Courses:
@@ -44,7 +45,7 @@ Aug 2019 – Mar 2020
 - Siemens PLC and SCADA Programming at National Skill Training Institute by Government of India.
 
 ## Education:
-- Bachelor of Technology in Electronics Engineering | Veermata Jijabai Technological Institute (VJTI), Matunga, Mumbai, India |     2018.
+- Bachelor of Technology in Electronics Engineering \| Veermata Jijabai Technological Institute (VJTI), Matunga, Mumbai, India \|   2018.
 
 ## College Project Works:
 - **Title:** Bionic arm
