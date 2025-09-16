@@ -33,15 +33,13 @@ Application Support Manager at ICICI Prudential Life Insurance Company Ltd., ens
 - Mentored and guided support team members, improving efficiency and knowledge sharing.
 
 ### Electrical and Instrumentation Engineer | Pipetech Engineering Solution Pvt. Ltd.| Mumbai |         
-    Aug 2019 – Mar 2020
-<br>
+    <pre>Aug 2019 – Mar 2020</pre>
 - Assembled and managed pre-existing 3D components for Civil, Mechanical, and Electrical projects using CADMATIC software.
 - Optimized component management processes, improving efficiency and reducing errors in project delivery.
 
 ### Production of Electronic Instruments | Concept Electronics | Mumbai |                                                  
     Aug 2018 – Apr 2019
-<br>
-- Followed production processes of electronic instruments, including electronic weighing scale indicators and testing them ensuring precision, reliability, and    compliance with industry standards.
+- Followed production processes of electronic instruments, including electronic weighing scale indicators and testing them ensuring precision,            reliability, and compliance with industry standards.
 
 ## Skill Development Courses:
 - PLC Programming and Applications (Rockwell and Siemens) at National Skill Training Institute by Government of India.
