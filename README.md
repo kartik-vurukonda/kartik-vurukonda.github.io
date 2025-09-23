@@ -3,7 +3,7 @@
 Welcome to my Github portfolio! 
 
 ## Contact
-- LinkedIn: [linkedin.com/in/kartikvurukonda](https://www.linkedin.com/in/kartik-vurukonda-353960102)
+- LinkedIn: [linkedin.com/in/kartikvurukonda](https://www.linkedin.com/in/kartik-vurukonda)
 - Email: kartik96vurukonda@gmail.com
 - Mobile: 9699006936
 
