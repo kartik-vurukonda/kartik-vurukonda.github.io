@@ -13,7 +13,7 @@ Application Support Manager at ICICI Prudential Life Insurance Company Ltd., ens
 ## Technical/Functional Skills (Present)
 - Application & Support Management:  Application Support & Maintenance, Production Support & Monitoring, Problem & Change Management, Service Delivery             Management.
 - Tools & Technologies: Oracle SQL, AppDynamics, Dynatrace, ManageEngine ServiceDesk Plus.
-- Productivity & Reporting:
+- Productivity & Reporting: Excel, Word, PowerPoint.
 
 ## Soft skills
 - Collaboration and Cross-Functional Teamwork
