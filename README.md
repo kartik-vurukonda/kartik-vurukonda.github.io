@@ -61,4 +61,4 @@ Aug 2018 – Apr 2019
 ## Impairment Type
 - Person with disability – Hearing impairment.
 - I wear Hearing aids but can understand and converse in English and Hindi.
-- <span style="font-weight: 900;">Inspite of my disability, I want to prove myself if given an opportunity.</span>
+- **<span style="font-weight: 900;">Inspite of my disability, I want to prove myself if given an opportunity.</span>**
